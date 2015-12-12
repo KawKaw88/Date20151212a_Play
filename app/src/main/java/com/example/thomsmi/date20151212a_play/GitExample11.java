@@ -19,6 +19,7 @@ public class GitExample11 extends AppCompatActivity {
         setSupportActionBar(toolbar);
 
         // $TODO@TJS 12-12-2015 do something with button click, maybe just change simple text, something simple.
+        //      Edited 12-12-2015 12:45pm
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
