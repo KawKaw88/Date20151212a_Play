@@ -20,6 +20,8 @@ public class GitExample11 extends AppCompatActivity {
 
         // $TODO@TJS 12-12-2015 do something with button click, maybe just change simple text, something simple.
         //      Edited 12-12-2015 12:45pm
+        //      Edited 12-12-2015 2:52pm, *** BAD Change, should undo ***
+
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
