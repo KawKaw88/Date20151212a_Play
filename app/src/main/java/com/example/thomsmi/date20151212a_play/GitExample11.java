@@ -21,6 +21,7 @@ public class GitExample11 extends AppCompatActivity {
         // $TODO@TJS 12-12-2015 do something with button click, maybe just change simple text, something simple.
         //      Edited 12-12-2015 12:45pm
         //      Edited 12-12-2015 3:40pm, after clone from GitHub
+        //      Edited 12-13-2015 11:50am
 
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
